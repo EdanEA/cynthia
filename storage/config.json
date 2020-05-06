@@ -1,0 +1,37 @@
+{
+  "bot": {
+    "token": "",
+    "userID": ""
+  },
+
+  "lavalink": {
+    "pass": "",
+    "host": "localhost",
+    "port": 8080
+  },
+
+  "conf": {
+    "ownerID": "",
+    "color": "AB82FF",
+    "defaultSuffix": "%",
+    "logChannel": "",
+    "defaultConfig": {
+      "music": {
+        "defaultSearch": "youtube",
+        "anySkip": true,
+        "singleRepeat": false,
+        "queueRepeat": false,
+        "channel": "",
+        "msgType": 1
+      },
+      "queue": []
+    },
+    "staff": [],
+    "beta": []
+  },
+
+  "keys": {
+    "scID": "",
+    "ytKey": ""
+  }
+}
